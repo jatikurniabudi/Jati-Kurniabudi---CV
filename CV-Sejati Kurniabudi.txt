@@ -1,0 +1,83 @@
+﻿SEJATI KURNIABUDI  
+
+085876878711  | jatikurniabudi4@gmail.com  | Linkedin  
+
+I have developed a strong foundation in cybersecurity. This is supported by my work experience in IT Security at several companies,  
+where I specialized in monitoring, detecting, and analyzing incidents across networks, servers, and endpoints. With these sk ills, I am  
+ ready to contribute my best efforts to protect organizations from evolving threats.  
+
+Work Experiences  
+
+                                                                                                                                                                          
+
+PT Aino Indonesia - Sleman, Yogyakarta                                                                                                           Feb 2024 - Present  
+
+ Security Engineer  
+
+       Implemented SIEM (Wazuh) for monitoring security events.  
+       Reviewed code quality in the CI/CD process using SonarQube.  
+      Analyzed security issues, responded to incidents, and suggested remediation to mitigate security or business impacts.  
+      Conducted Vulnerability Assessment and Penetration Testing (VAPT) on mobile, web, and API products, both existing and  
+   prerelease.  
+
+Investree Randhika Jaya - Sleman, Yogyakarta                                                                                                  Aug 2022 - Feb 2024  
+
+ Security Engineer  
+
+       Regularly conducted vulnerability assessments and penetration testing on web and mobile applications during the development  
+      phase.  
+       Performed annual penetration testing in Indonesia, Thailand, and the Philippines.  
+      Validated and managed bug bounty reports from bug hunters.  
+       Researched and developed monitoring tools, including Wazuh.  
+
+Q2 Technologies - Jakarta Selatan                                                                                                              Jul 2019 - Nov 2021  
+
+ IT Security Analyst  
+
+     SOC at Bank BTPN  
+   Monitoring, detecting, and analyzing cybersecurity incidents on networks, servers, and endpoints. Responding to anomalous activity  
+   that could be indicative of a security incident and validating that potential security incident before making the report.  
+Q2 Technologies - Banten                                                                                                                        Jun 2019 - Jul 2019  
+
+ Penetration Tester  
+
+     Gained knowledge in IT Security with a focus on Penetration Testing for web and mobile platforms.  
+
+Education Level  
+
+                                                                                                                                                                          
+
+Universitas Bina Nusantara                                                                                                                    Jun 2020 - May 2024  
+
+ Bachelor Degree in Computer Science, 3.40/4.00  
+
+SMK Telkom Purwokerto                                                                                                                           Jul 2016 - Jun 2019  
+
+ High School Diploma in Software Engineering  
+
+     Semifinalist Informatics Logical Programming Competition by Universitas Surabaya in 2018 and 2019  
+
+Skills                  
+
+  
+      Soft Skills: Analytical Thinking, Problem-Solving, Attention to Detail, Critical Thinking.  
+
+      Hard Skills: Penetration Testing, Web Security, Vulnerability Assessment, Network Security, Information Security, Mobile Security.  
+  
+
+  
+Licence  
+
+                                                                                                                                                                     
+
+EC Council                                                                                                                                              Jan 2023  
+
+ Certified Ethical Hacker v12  
+
+Merdeka Siber Academy                                                                                                                                   Sep 2022  
+
+ Android Application Security Testing  
+
+EC Council                                                                                                                                             May 2021  
+
+ Certified SOC Analyst v1  
