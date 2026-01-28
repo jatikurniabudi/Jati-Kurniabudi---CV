@@ -1,0 +1,6 @@
+{
+  "name": "cv-jati",
+  "type": "javascript",
+  "main": "./.next/server/app.js",
+  "compatibility_date": "2026-01-28"
+}
